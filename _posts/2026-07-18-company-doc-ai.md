@@ -42,4 +42,4 @@ image: /automindlab-blog/assets/img/hero-docs.jpg
 
 개념이 와닿지 않는다면 **[무료 데모(DocuMind)](https://chang-in.github.io/ai-automation-demos/doc-qa/)**에 아무 문서나 올리고 질문해 보세요. 근거를 인용하며 답하고, 없는 내용은 없다고 답하는 걸 직접 확인할 수 있습니다.
 
-사내 도입 상담은 [크몽 오토마인드랩](https://kmong.com/@오토마인드랩)에서 받고 있습니다. 계약 전에 귀사 샘플 문서로 작동하는 미니 시연을 먼저 보여드립니다.
+사내 도입 상담은 [크몽 상점](https://kmong.com/@오토마인드랩)에서 받고 있습니다. 계약 전에 귀사 샘플 문서로 작동하는 미니 시연을 먼저 보여드립니다.

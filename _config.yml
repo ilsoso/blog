@@ -1,4 +1,4 @@
-title: 오토마인드랩 블로그
+title: 일소소 블로그
 description: 소상공인·중소기업을 위한 AI 업무자동화 실전 가이드. 반복 업무를 줄이는 방법을 구체적으로 다룹니다.
 lang: ko
 url: "https://chang-in.github.io"
@@ -9,7 +9,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
 author:
-  name: 오토마인드랩
+  name: 일소소
 minima:
   date_format: "%Y년 %m월 %d일"
 header_pages:

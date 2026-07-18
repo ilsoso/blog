@@ -3,7 +3,7 @@ layout: home
 title: 홈
 ---
 
-![오토마인드랩 블로그](/automindlab-blog/assets/img/hero-blog.jpg)
+![일소소 블로그](/automindlab-blog/assets/img/hero-blog.jpg)
 
 **반복 업무에 시간을 뺏기는 사장님과 팀을 위한 블로그입니다.**
 

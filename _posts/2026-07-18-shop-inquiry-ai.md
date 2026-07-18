@@ -50,4 +50,4 @@ image: /automindlab-blog/assets/img/hero-inquiry.jpg
 
 가게 정보와 정책을 넣으면 AI가 답변 초안을 만들어주는 **[무료 데모(ReplyFlow)](https://chang-in.github.io/ai-automation-demos/review-bot/)**를 열어보세요. 브라우저에서 바로 작동합니다.
 
-우리 가게에 맞는 자동응대 시스템 구축이 궁금하다면 [크몽 오토마인드랩](https://kmong.com/@오토마인드랩)으로 문의 주세요. 계약 전에 귀사 문의 샘플로 작동하는 모습을 먼저 보여드립니다.
+우리 가게에 맞는 자동응대 시스템 구축이 궁금하다면 [크몽 상점](https://kmong.com/@오토마인드랩)으로 문의 주세요. 계약 전에 귀사 문의 샘플로 작동하는 모습을 먼저 보여드립니다.
