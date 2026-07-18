@@ -1,8 +1,8 @@
 title: 일소소 블로그
 description: 소상공인·중소기업을 위한 AI 업무자동화 실전 가이드. 반복 업무를 줄이는 방법을 구체적으로 다룹니다.
 lang: ko
-url: "https://chang-in.github.io"
-baseurl: "/automindlab-blog"
+url: "https://ilsoso.github.io"
+baseurl: "/blog"
 theme: minima
 plugins:
   - jekyll-seo-tag
