@@ -12,5 +12,5 @@ permalink: /about/
 
 **직접 써볼 수 있는 데모**: [ai-automation-demos](https://ilsoso.github.io/demos/)
 
-**제작 의뢰**: [크몽 상점](https://kmong.com/@오토마인드랩)에서 받고 있습니다.
+**제작 의뢰**: [크몽 상점](https://kmong.com/@오토마인드랩) 또는 **ilsoso.official@ilsoso.com** 으로 받고 있습니다.
 계약 전에 실제로 작동하는 미니 시연을 먼저 보여드립니다.
