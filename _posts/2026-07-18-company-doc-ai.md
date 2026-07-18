@@ -4,7 +4,10 @@ title: "사내 규정·매뉴얼 찾다 하루 다 간다면 — 문서 검색 A
 categories: [사내AI]
 tags: [사내 문서 검색, RAG, 사내 챗봇, 지식관리, AI 도입]
 description: 흩어진 규정과 매뉴얼 때문에 같은 질문이 반복되는 회사를 위한 문서 검색 AI(RAG) 도입 가이드. 환각 문제와 보안 이슈까지 다룹니다.
+image: /automindlab-blog/assets/img/hero-docs.jpg
 ---
+
+![서류 바인더가 쌓인 사무실 선반](/automindlab-blog/assets/img/hero-docs.jpg)
 
 회사가 조금만 커져도 이런 일이 생깁니다.
 
